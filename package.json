@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.ibm.com:WeibinRoy-Luo/eslint-config-react-native-roylaw.git"
+    "url": "https://github.com/LBroy/eslint-config-react-native-roylaw.git"
   },
-  "author": "Weibin(roy) Luo <weibinroy.luo@ibm.com>",
+  "author": "Weibin(roy) Luo <roylaw.w@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^2.0.0",
