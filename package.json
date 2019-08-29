@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-react-native-roylaw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ibm.com:WeibinRoy-Luo/eslint-config-react-native-roylaw.git"
+  },
+  "author": "Weibin(roy) Luo <weibinroy.luo@ibm.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint": "^6.2.2",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^2.0.1",
+    "eslint-plugin-react-native": "^3.7.0",
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.2"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.13.24",
+    "semantic-release-cli": "^5.2.0"
+  }
+}
